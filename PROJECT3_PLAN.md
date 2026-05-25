@@ -29,6 +29,7 @@ Build a no-code platform where users describe a Chrome extension requirement in 
 | "Highlight all links on a page" | ✅ |
 
 ### Week 2: File System & Zipping (In Progress)
+extension added
 
 #### Goal: Convert JSON to downloadable zip file
 
